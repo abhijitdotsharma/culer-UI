@@ -100,8 +100,6 @@ button {
     background-color: var(--color-warning);
     color: var(--color-white);
 }
-
-
 .btn-icon{
     border: 1px solid var(--color-primary);
     color: var(--color-primary);
